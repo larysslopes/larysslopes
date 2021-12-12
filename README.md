@@ -1,6 +1,6 @@
 ## Heey, eu sou a Larissa 😊
 
-## Desenvolvedora Full stack em formação 👩🏼‍💻
+<strong> Desenvolvedora Full stack em formação </strong> 👩🏼‍💻
 
 <div>
   <a href="https://github.com/larysslopes">
