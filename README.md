@@ -1,6 +1,6 @@
 ## Heey, eu sou a Larissa 😊
 
-<strong> Desenvolvedora Full stack em formação </strong> 👩🏼‍💻
+<strong> Desenvolvedora FrontEnd Jr. </strong> 👩🏼‍💻
 
 <div>
   <a href="https://github.com/larysslopes">
@@ -8,9 +8,11 @@
 </div>
   
 <div style="display: inline_block"><br>
+  <img align="center" alt="js" height="30" width="40" src="https://user-images.githubusercontent.com/88943268/154866594-a10ca5aa-d98b-403f-8688-783c634cb6a7.svg">
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="js" height="30" width="40" src="https://user-images.githubusercontent.com/88943268/154866653-15234ec4-263f-45ba-ab57-8746b289bcad.svg">
  <!-- <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
 </div>
   
