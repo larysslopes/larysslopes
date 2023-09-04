@@ -4,8 +4,9 @@
 
 
   - 🔭 Atualmente estou trabalhando como desenvolvedora na <a href="http://www.bdm.net.br/"> BDM </a>
-  - 🌱 Atualmente estou aprendendo Python
+  - 🌱 Aprofundando os estudos em Python
   - 🎯 Explorando o mundo da IA
+  - 📖 Cursando Análise e Desenvolvimento de Sistemas 
     
   ##
   
