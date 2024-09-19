@@ -1,9 +1,8 @@
 ## Heey, eu sou a Larissa 😊
 
-<strong> Desenvolvedora FrontEnd Jr. </strong> 👩🏼‍💻
+<strong> Desenvolvedora Web. </strong> 👩🏼‍💻
 
-
-  - 🔭 Atualmente estou trabalhando como desenvolvedora na <a href="http://www.bdm.net.br/"> BDM </a>
+  - 🔭 Atualmente estou trabalhando como desenvolvedora na <a href="https://bdm.net.br/"> BDM </a>
   - 🌱 Aprofundando os estudos em C#
   - 🎯 Explorando o mundo da IA
   - 📖 Cursando Análise e Desenvolvimento de Sistemas 
